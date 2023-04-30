@@ -1,32 +1,76 @@
 [
-{
-"id": 1,
-"name": "Cox's Bazar",
-"image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/coxs.jpg?raw=true",
-"info": "Cox's Bazar is a seaside town in Bangladesh, known for having the world's longest natural sandy beach. It stretches over 120 kilometers along the Bay of Bengal and is a popular tourist destination for its scenic beauty, colorful sunsets, and delicious seafood. In addition to the beach, visitors can also explore nearby places of interest, such as Himchori Waterfall, Inani Beach, and Moheshkhali Island."
-},
-{
-"id": 2,
-"name": "Sreemongol",
-"image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/Sreemongol.png?raw=true",
-"info": "Sreemongol is a town in northeastern Bangladesh, known for its tea gardens, natural beauty, and birdwatching opportunities. It is home to the Lawachara National Park, which is a UNESCO Biosphere Reserve and a popular destination for birdwatchers. The region is also known for its tea industry, with the Srimangal region being the center of tea production. Visitors can explore the tea gardens, take a walk in the forest, or take a bike ride to nearby attractions like Baikka Beel Wetland Sanctuary."
-},
-{
-"id": 3,
-"name": "Sundorban",
-"image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/sundorbon.png?raw=true",
-"info": "The Sundarbans is a mangrove forest in Bangladesh, known for being the largest natural reserve of the Bengal tiger. It is a UNESCO World Heritage Site and a popular tourist destination for its unique ecosystem, wildlife safaris, and river cruises. Visitors can explore the forest on foot or by boat, and may spot various wildlife such as deer, crocodiles, and monkeys, as well as rare bird species. The forest is also home to many fishing communities, who offer authentic cultural experiences for visitors."
-},
-{
-"id": 4,
-"name": "Saint Martin",
-"image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/saintmartin.jpg?raw=true",
-"info": "Saint Martin's Island is a small island in the Bay of Bengal, located off the coast of Bangladesh. It is a popular tourist destination for its crystal-clear waters, coral reefs, and white sandy beaches. Visitors can enjoy snorkeling, diving, and swimming in the clear waters, or simply relax on the beach. The island also has a small fishing village, where visitors can learn about the local culture and cuisine."
-},
-{
-"id": 5,
-"name": "Sajek",
-"image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/Sajek.png?raw=true",
-"info": "Sajek Valley is a hill station in Bangladesh, known for its stunning natural beauty, panoramic views of green hills, and indigenous culture. It is a popular tourist destination for its trekking trails, camping sites, and eco-tourism activities. Visitors can explore the valley on foot, and may spot various wildlife such as monkeys, deer, and wild boars. The valley is also home to many indigenous communities, who offer authentic cultural experiences for visitors."
-}
+    {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/coxs.jpg?raw=true",
+    "info": "Cox's Bazar is a seaside town in Bangladesh, known for having the world's longest natural sandy beach. It stretches over 120 kilometers along the Bay of Bengal and is a popular tourist destination for its scenic beauty, colorful sunsets, and delicious seafood. In addition to the beach, visitors can also explore nearby places of interest, such as Himchori Waterfall, Inani Beach, and Moheshkhali Island."
+    },
+    {
+    "id": 2,
+    "name": "Sreemongol",
+    "image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/Sreemongol.png?raw=true",
+    "info": "Sreemongol is a town in northeastern Bangladesh, known for its tea gardens, natural beauty, and birdwatching opportunities. It is home to the Lawachara National Park, which is a UNESCO Biosphere Reserve and a popular destination for birdwatchers. The region is also known for its tea industry, with the Srimangal region being the center of tea production. Visitors can explore the tea gardens, take a walk in the forest, or take a bike ride to nearby attractions like Baikka Beel Wetland Sanctuary."
+    },
+    {
+    "id": 3,
+    "name": "Sundorban",
+    "image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/sundorbon.png?raw=true",
+    "info": "The Sundarbans is a mangrove forest in Bangladesh, known for being the largest natural reserve of the Bengal tiger. It is a UNESCO World Heritage Site and a popular tourist destination for its unique ecosystem, wildlife safaris, and river cruises. Visitors can explore the forest on foot or by boat, and may spot various wildlife such as deer, crocodiles, and monkeys, as well as rare bird species. The forest is also home to many fishing communities, who offer authentic cultural experiences for visitors."
+    },
+    {
+    "id": 4,
+    "name": "Saint Martin",
+    "image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/saintmartin.jpg?raw=true",
+    "info": "Saint Martin's Island is a small island in the Bay of Bengal, located off the coast of Bangladesh. It is a popular tourist destination for its crystal-clear waters, coral reefs, and white sandy beaches. Visitors can enjoy snorkeling, diving, and swimming in the clear waters, or simply relax on the beach. The island also has a small fishing village, where visitors can learn about the local culture and cuisine."
+    },
+    {
+    "id": 5,
+    "name": "Sajek",
+    "image": "https://github.com/emon3455/demo-picture/blob/main/travel-images/Sajek.png?raw=true",
+    "info": "Sajek Valley is a hill station in Bangladesh, known for its stunning natural beauty, panoramic views of green hills, and indigenous culture. It is a popular tourist destination for its trekking trails, camping sites, and eco-tourism activities. Visitors can explore the valley on foot, and may spot various wildlife such as monkeys, deer, and wild boars. The valley is also home to many indigenous communities, who offer authentic cultural experiences for visitors."
+    },
+    {
+        "id": 6,
+        "name": "Bandarban",
+        "image": "https://images.unsplash.com/photo-1667595838732-0e1efe1b2fb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFuZGFyYmFuJTIwZGlzdHJpY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "info": "Bandarban is a hilly district located in southeastern Bangladesh, known for its breathtaking natural beauty, indigenous communities, and adventure sports. It is home to the highest peak in Bangladesh, the Keokradong, which is a popular destination for trekking and hiking enthusiasts. Visitors can also explore the natural caves, waterfalls, and hot springs, or learn about the unique culture of the local tribes."
+    },
+    {
+        "id": 7,
+        "name": "Kishoreganj",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "info": "Kishoreganj is a district located in the Dhaka Division of Bangladesh. It is known for its rich history and culture, and is home to many important landmarks and tourist attractions. The district is known for its beautiful natural scenery, including the Katiadi River and the green hills that surround the area. Kishoreganj is also famous for its traditional handloom industry, which produces high-quality textiles that are sold throughout the country. Visitors to Kishoreganj can explore the local markets, visit historic temples and monuments, or simply enjoy the natural beauty of the area."
+
+    },
+    
+    {
+        "id": 8,
+        "name": "Kuakata",
+        "image": "https://images.unsplash.com/photo-1635264647809-66e209bf0bbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "info": "Kuakata is a seaside town located in southwestern Bangladesh, known for its panoramic views of the Bay of Bengal, colorful sunsets, and serene beaches. It is home to the Kuakata Beach, which is one of the few beaches in the world where both sunrise and sunset can be seen from the same spot. Visitors can also explore the nearby Buddhist temples, mosques, and markets, or take a boat ride to the nearby islands."
+    },
+    {
+        "id": 9,
+        "name": "Paharpur",
+        "image": "https://media.istockphoto.com/id/1295763654/photo/joychandi-glass.jpg?b=1&s=170667a&w=0&k=20&c=24t9-9g1SYs6bYt0TRndU1QXa8vOdDSUhfkWC14p7Xg=",
+        "info": "Paharpur is an archaeological site located in northern Bangladesh, known for its ancient ruins of the Pala Empire. It is home to the Paharpur Buddhist Monastery, which is one of the largest and oldest monasteries in South Asia and a UNESCO World Heritage Site. Visitors can explore the various temples, stupas, and courtyards of the monastery, or learn about the history and culture of the region at the adjacent museum."
+    },
+    {
+        "id": 10,
+        "name": "Rangamati",
+        "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJhbmdhbWF0aXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "info": "Rangamati is a hilly district located in southeastern Bangladesh, known for its scenic beauty, diverse flora and fauna, and indigenous culture. It is home to the Kaptai Lake, which is the largest man-made lake in Bangladesh and a popular destination for boating and fishing. Visitors can also explore the natural waterfalls, forests, and hills, or learn about the traditional handicrafts and music of the local tribes."
+    },
+    {        
+        "id": 11,        
+        "name": "Madhabpur Lake",        
+        "image": "https://images.unsplash.com/photo-1621020744520-8a8c64378019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dG91cmlzdCUyMHNwb3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",        
+        "info": "Madhabpur Lake is a natural lake located in Madhabpur Upazila of Habiganj district, Bangladesh. The lake is surrounded by lush green hills and is a popular destination for boating, fishing, and camping. Visitors can also explore the nearby tea gardens, tribal villages, and the Lawachara National Park, which is home to a wide range of wildlife."    
+    },    
+    {        
+        "id": 12,        
+        "name": "Bagerhat",        
+        "image": "https://images.unsplash.com/photo-1631642386603-5618fa038ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",        
+        "info": "Bagerhat is a district in southwestern Bangladesh, known for its historical and cultural significance. It is home to the Shait Gumbad Mosque, a UNESCO World Heritage Site and one of the most impressive examples of Islamic architecture in South Asia. Visitors can also explore other historical sites, such as the Sixty Dome Mosque and the Tomb of Khan Jahan Ali, or take a boat ride through the nearby mangrove forests of the Sundarbans."    
+    } 
 ]
